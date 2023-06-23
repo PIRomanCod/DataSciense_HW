@@ -7,3 +7,4 @@ It is a repository for GoIT Data Science homeworks
   ## 2.2. Аналіз результатів опитування розробників у червні 2017 року
   ## 2.3. Аналіз Топ-50 рейтингу книг Amazon за 11 років (з 2009 по 2019)
 3. HW - introduction to linear regression
+4. HW - Linear Regression: Overfitting and Regularization
