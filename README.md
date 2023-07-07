@@ -9,3 +9,4 @@ It is a repository for GoIT Data Science homeworks
 3. HW - introduction to linear regression
 4. HW - Linear Regression: Overfitting and Regularization
 5. HW - SupportVectorMachines + RandomForest
+6. HW - Unsupervised learning - Clustering (KMeans, AgglomerativeClustering, DBSCAN)
