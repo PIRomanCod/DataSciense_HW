@@ -10,3 +10,4 @@ It is a repository for GoIT Data Science homeworks
 4. HW - Linear Regression: Overfitting and Regularization
 5. HW - SupportVectorMachines + RandomForest
 6. HW - Unsupervised learning - Clustering (KMeans, AgglomerativeClustering, DBSCAN)
+7. HW- Recommendation systems. Modules surprise, pandas-profiling
