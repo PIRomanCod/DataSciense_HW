@@ -11,3 +11,5 @@ It is a repository for GoIT Data Science homeworks
 5. HW - SupportVectorMachines + RandomForest
 6. HW - Unsupervised learning - Clustering (KMeans, AgglomerativeClustering, DBSCAN)
 7. HW- Recommendation systems. Modules surprise, pandas-profiling
+8. HW - Neural networks introduction. TensorFlow classification task mnist numbers 0-9
+ 
