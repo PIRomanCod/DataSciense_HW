@@ -17,4 +17,4 @@ It is a repository for GoIT Data Science homeworks
 11. 
 11.1. HW - Recurent Neural Network -  SimpleRNN', 'RNN_GRU', 'RNN_LSTM', 'BRNN', 'Deep_BRNN'.  Keras RNN classification task imdb  0-1
 11.2. HW - Refactored RNN + Transformer -  SimpleRNN', 'RNN_GRU', 'RNN_LSTM', 'BRNN', 'Deep_BRNN', pipeline("sentiment-analysis").  Keras RNN classification task imdb  0-1
- 
+ 12. HW - Text summarization with SpaCy, NLTK, extended with transformers: Bart and 2 multilingual models
